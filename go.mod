@@ -1,4 +1,4 @@
-module factory-roraimabits/go-deer
+module github.com/factory-roraimabits/go-deer
 
 go 1.17
 
