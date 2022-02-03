@@ -1,9 +1,9 @@
 package log_test
 
 import (
-	"factory-roraimabits/go-deer/pkg/log"
 	"testing"
 
+	"github.com/factory-roraimabits/go-deer/pkg/log"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/zap"
 )

@@ -5,13 +5,14 @@ import (
 	"bytes"
 	"context"
 	"encoding/json"
-	"factory-roraimabits/go-deer/pkg/log"
+
 	"fmt"
 	"regexp"
 	"strings"
 	"testing"
 	"time"
 
+	"github.com/factory-roraimabits/go-deer/pkg/log"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

@@ -2,7 +2,6 @@ package encoders_test
 
 import (
 	"bytes"
-	"factory-roraimabits/go-deer/pkg/log/encoders"
 	"fmt"
 	"math"
 	"reflect"
@@ -10,6 +9,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/factory-roraimabits/go-deer/pkg/log/encoders"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

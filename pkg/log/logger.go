@@ -1,11 +1,11 @@
 package log
 
 import (
-	"factory-roraimabits/go-deer/pkg/log/encoders"
 	"io"
 	"os"
 	"time"
 
+	"github.com/factory-roraimabits/go-deer/pkg/log/encoders"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )
