@@ -12,19 +12,19 @@
 By default, `go get` will bring in the latest tagged release version of the module.
 
 ```shell
-go get github.com/mercadolibre/fury_go-core
+go get github.com/factory-roraimabits/go-deer
 ```
 
 To get a specific release version of the module use `@<tag>` in your `go get` command.
 
 ```shell
-go get github.com/mercadolibre/fury_go-core@v1.0.0
+go get github.com/factory-roraimabits/go-deer@v1.0.0
 ```
 
 To get the latest module repository change use `@latest`.
 
 ```shell
-go get github.com/mercadolibre/fury_go-core@latest
+go get github.com/factory-roraimabits/go-deer@latest
 ```
 
 To run all the tests of this SDK use the included `Makefile`.

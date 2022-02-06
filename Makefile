@@ -37,3 +37,5 @@ test-cover:
 	@echo "=> Running tests and generating report"
 	@go test ./... -covermode=atomic -coverprofile=/tmp/coverage.out -coverpkg=./... -count=1 -race
 	@go tool cover -html=/tmp/coverage.out
+
+

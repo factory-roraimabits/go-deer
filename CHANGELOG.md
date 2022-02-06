@@ -12,3 +12,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 New version
+
+git config --global url."https://${factory-roraimabits}:${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}@github.com".insteadOf /
+"https://github.com"
